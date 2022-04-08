@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=C++&logoColor=white"/>
 
 # Community
-<img src="https://img.shields.io/badge/42-000000.svg?style=plastic&logo=42&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEOUL-000000.svg?style=plastic&logo=42&logoColor=white"/>
 
 # Contacts
 
