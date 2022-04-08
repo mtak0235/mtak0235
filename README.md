@@ -6,18 +6,17 @@
 <br/>
 
 # Tech Stack
-## Platforms % Languages
+## Platforms & Languages
 <img src="https://img.shields.io/badge/Java-007396.svg?style=plastic&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-6DB33F.svg?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-6DB33F.svg?style=plastic&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=plastic&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=C++&logoColor=white"/>
 
 # Community
-<img src="https://img.shields.io/badge/42-000000.svg?style=plastic&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/42-000000.svg?style=plastic&logo=42&logoColor=white"/>
 
 # Contacts
 
