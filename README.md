@@ -21,4 +21,7 @@
 <img src="https://img.shields.io/badge/SEOUL-000000.svg?style=plastic&logo=42&logoColor=white"/>
 
 # Contacts
-
+<img src="https://img.shields.io/badge/jesustark0235@gmail.com-EA4335.svg?style=plastic&logo=Gmail&logoColor=white"/>
+<a href="https://www.instagram.com/mtak0v0/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@mtak0235"><img src="https://img.shields.io/badge/Luce2Altis-TechBlog-20C997.svg?style=plastic&logo=Velog&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/minkyeong-tak-4225051b5/"><img src="https://img.shields.io/badge/Instagram-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white"/></a>
