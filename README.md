@@ -1,6 +1,3 @@
-# Tech Blog
-https://velog.io/@mtak0235/posts
-
 # Projects
 
 ### 실시간 스트리밍 온라인 게임 [ft_transcendence]
